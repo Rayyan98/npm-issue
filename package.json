@@ -1,0 +1,10 @@
+{
+  "workspaces": {
+    "packages": [
+      "./package1"
+    ]
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

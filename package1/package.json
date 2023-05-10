@@ -1,0 +1,6 @@
+{
+  "name": "package1",
+  "devDependencies": {
+    "dotenv": "^15.0.1"
+  }
+}
